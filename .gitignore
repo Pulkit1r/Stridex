@@ -1,0 +1,12 @@
+backend/venv/
+backend/venv311/
+__pycache__/
+*.pyc
+
+.env
+
+frontend/node_modules/
+
+.DS_Store
+.vscode/
+*.mp4
